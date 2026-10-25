@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Widget RCT</string>
+    <string name="widget_name">Prochain match du RCT</string>
+    <string name="widget_description">Affiche le prochain match du Rugby Club Toulonnais et sa diffusion TV.</string>
+    <!-- Remplacer par l'URL HTTPS du fichier JSON hébergé (voir README). -->
+    <string name="match_json_url" translatable="false"></string>
+</resources>
